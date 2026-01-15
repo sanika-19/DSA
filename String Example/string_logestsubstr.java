@@ -22,7 +22,7 @@ public class string_logestsubstr {
         return maxlength;
     }
     public static void main(String[] args) {
-        String s="cadbzabcd";
+        String s="ab";
         int total=longestSubstr(s);
         System.out.println("Longest substring:"+total);
     }
